@@ -1,0 +1,6 @@
+PyAudio
+SpeechRecognition
+ev3Py-runlocal
+numpy
+pocketsphinx
+rpyc
